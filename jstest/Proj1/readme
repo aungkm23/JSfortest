@@ -1,0 +1,8 @@
+Run about.html
+When you press start, a timer will start (red button will appear)
+Red button will move to each edge of the screen
+It will end at top right
+When you click the top right circle, it will get another time called "stop"
+Will print to console (stop - start)
+
+Ctrl+Shift+J to check the console message on Chrome

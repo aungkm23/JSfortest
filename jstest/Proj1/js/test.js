@@ -5,12 +5,12 @@ let count = 0;
 button.onclick = function(){
         count = count+1;
     if(count === 1) {
-        button.className = "bottom_left";
+        button.className = "bottom_right";
         // var bot_left = new Date().getUTCSeconds();
         // count = count+1;
     }
     else if(count === 2) {
-        button.className  = "bottom_right";
+        button.className  = "bottom_left";
         // var bot_right = new Date().getUTCSeconds();
         // count = count+1;
     }
